@@ -1,0 +1,22 @@
+{
+  "notebooks": {
+    "python-practice-assignment.ipynb": {
+      "slug": "b09bce4483844d378d75a65cd8751d46"
+    },
+    "numpy-array-operations.ipynb": {
+      "slug": "82e4660861f4430e879a9ae5e51c3512"
+    },
+    "pandas-practice-assignment.ipynb": {
+      "slug": "6a1383c3a79a497ba600e99ef8ce789c"
+    },
+    "EDA PROJ.ipynb": {
+      "slug": "621f271f69824e0da7bc7934d8d7d702"
+    },
+    "notebook.ipynb": {
+      "slug": "6a1383c3a79a497ba600e99ef8ce789c"
+    },
+    "eda_project.ipynb": {
+      "slug": "0f92fa2357044fe697455fd45e7d40fc"
+    }
+  }
+}
